@@ -1,0 +1,7 @@
+[submodule "MMOCoreORB/utils/engine3"]
+	path = MMOCoreORB/utils/engine3
+	url = https://github.com/swgemu/engine3.git
+	
+[submodule "MMOCoreORB/bin/scripts/custom"]
+	path = MMOCoreORB/bin/scripts/custom
+	url = git@github.com:Xero-Null/-Renegades_CustomScripts.git
